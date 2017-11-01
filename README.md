@@ -3,6 +3,19 @@
 </p>
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  #### 特性：
  
  -  支持采集效果为十六进制的输出与支持十六进制的输入设置圆环颜色。 **比如 #ee1313 红色**
@@ -11,11 +24,11 @@
  
  #### 方法说明：
  
- | 类中的list分类 | 说明|泛型|
-|-------|------|-----------|
-| boundDevicesList | 已经被绑定的设备集合|GizWifiDevice|
-| foundDevicesList| 被发现未**绑定**的设备集合 |GizWifiDevice|
-| offlineDevicesList| 已经绑定但离线的设备集合 |GizWifiDevice|
+ | 方法 | 说明|参数说明|
+|-------|------|------|
+| setSeekBarColorPickerChangeListener（） | 色环的颜色值改变时候回调方法|color：十进制颜色 ，htmlRgb:十六进制的颜色|
+| setColorByhtmlRGB（）| 通过十六进制设置色环颜色 |无|
+| setColorByInt（）| 通过十进制设置色环颜色 |无|
 
 Demo效果 ：
  

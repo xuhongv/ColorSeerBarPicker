@@ -24,6 +24,10 @@
 | setColorByhtmlRGB（）| 通过十六进制设置色环颜色 |无|
 | setColorByInt（）| 通过十进制设置色环颜色 |无|
 
-Demo效果 ：
+ #### Demo效果：
  
 ![image](http://h5xuhong.oss-cn-hongkong.aliyuncs.com/blogCSDN/E22FB16317FCB95803CCB80DCA61CD5Fss.png)
+
+ #### 常见的应用场景，并非为了冲击商业，个人爱好...：
+ 
+ ![image](http://img.blog.csdn.net/20171031161918599?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGg4NzAxODkyNDg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)

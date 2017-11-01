@@ -1,7 +1,8 @@
 <p align="center">
   <img src="http://h5xuhong.oss-cn-hongkong.aliyuncs.com/blogCSDN/icon.png" width="520px" height="300px" alt="Banner" />
 </p>
- ### SmartHome-master
+ 
+效果图 ：
  
 ![image](http://h5xuhong.oss-cn-hongkong.aliyuncs.com/smartHome/Tab/1_tab.png)
  

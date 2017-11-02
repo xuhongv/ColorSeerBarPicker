@@ -22,6 +22,7 @@
 | setSeekBarColorPickerChangeListener（） | 色环的颜色值改变时候回调方法|color：十进制颜色 ，htmlRgb:十六进制的颜色|
 | setColorByhtmlRGB（）| 通过十六进制设置色环颜色 |无|
 | setColorByInt（）| 通过十进制设置色环颜色 |无|
+| setGizwitLight（）| 设置采集方式为机智云灯 |ture则开启，fasle不开启。因为机智云的默认定义rgb范围 0到254|
 
 
  #### .

@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         mSeekBarColorPicker.setSeekBarColorPickerChangeListener(new SeekBarColorPicker.SeekBarColorPickerChangeListener() {
             @Override
             public void onProgressChange(SeekBarColorPicker seekBarColorPicker, int color, String htmlRgb) {
+                Log.e("toHexString","toHexString:"+color);
                 findViewById(R.id.mViewResult).setBackgroundColor(color);
                 tvShow.setText("采集结果：" + htmlRgb);
             }
